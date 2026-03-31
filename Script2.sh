@@ -1,6 +1,5 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Your Name
 
 PACKAGE=$1
 

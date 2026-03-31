@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Your Name
+
 
 STUDENT_NAME="Saifullah"
 SOFTWARE_CHOICE="Your Software"

@@ -44,7 +44,7 @@ This is an interactive script that asks a few questions and generates a short te
 ## How to Run the Scripts
 
 Clone the repository:
-git clone https://github.com/your-username/oss-audit-rollnumber.git
+git clone https://github.com/SaifullahSayyed/Linux.git
 
 Go into the scripts folder:
 cd oss-audit-rollnumber/scripts
